@@ -1,0 +1,115 @@
+.container{
+    background-image: url(https://res.cloudinary.com/dxeuqr4dh/image/upload/v1695703871/pexels-eva-bronzini-7599590_truvnc.jpg);
+    background-size: cover;
+    height: 50cm;
+    border-radius:26px 26px 26px 26px ;
+}
+.teslah1{
+    font-size: 2rem;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+#dob{
+    font-size: 1.2rem;
+    padding-top: -0px;
+    color:black;
+}
+.teslaimg{
+    height: 10cm;
+    width:16cm;
+    margin-top: 30px;
+    border-radius: 21px;
+    transform:translateX(11.7cm);
+    
+}
+.quotes{
+    text-align: center;
+    font-size: 1.3rem;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+#writer{
+    text-align: end;
+    padding-right:11.5cm;
+    font-size: 1em;
+}
+.intro{
+    padding-left: 3cm;
+}
+.biography{
+    padding-top:1.2cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.intro p{
+    font-size: 1.2rem;
+}
+.working-at-edison{
+    padding-left: 3cm;
+}
+.working-at-edison h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.working-at-edison p{
+    font-size: 1.2rem;
+}
+.invensions{
+    margin-left: 2.9cm;
+}
+.invensions ul{
+    display:flex;
+    align-items: center;  
+}
+.invo{ 
+    height: 160px;
+    width: 3.5cm; 
+    margin: 30px 10px 0px 29.5px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+#tesla-turbine{
+    background-image: url(https://res.cloudinary.com/dxeuqr4dh/image/upload/v1695904639/WhatsApp_Image_2023-09-28_at_17.46.28_ghrqls.jpg);
+    background-size: cover;
+}
+.tt p{
+    padding-left: 40px;
+    font-weight:900;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#hydroelectricpower{
+    background-image: url(https://res.cloudinary.com/dxeuqr4dh/image/upload/v1695905190/WhatsApp_Image_2023-09-28_at_17.46.29_mcg583.jpg);
+    background-size: cover;
+    transform:translateY(10px); 
+}
+#inductionmotor{
+    background-image: url(https://res.cloudinary.com/dxeuqr4dh/image/upload/v1695905483/WhatsApp_Image_2023-09-28_at_17.46.28_mctlnn.jpg);
+    background-size: cover;
+}
+#teslacoil{
+    background-image: url(https://res.cloudinary.com/dxeuqr4dh/image/upload/v1695905724/WhatsApp_Image_2023-09-28_at_17.46.29_wmexqq.jpg);
+    background-size: cover;
+}
+#wirelessenergytransfer{
+    background-image: url(https://res.cloudinary.com/dxeuqr4dh/image/upload/v1695905922/WhatsApp_Image_2023-09-28_at_17.46.29_jpj3gu.jpg);
+    background-size: cover;
+    transform:translateY(10px);
+}
+.died h1{
+    padding-left:3cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.died p{
+    font-size: 1.2rem;
+    padding-left: 3cm;
+}
+.horizontal-line{
+    height: 3px;
+    width: 17cm;
+    background-color: black;
+    margin:120px 0px 0px 450px;
+}
+.horizontal-line h1{
+    margin-left:6.5cm;
+    padding-top:1cm;
+}
